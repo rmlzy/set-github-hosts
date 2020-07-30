@@ -7,7 +7,7 @@
 
 ```shell script
 # 下载代码
-git clone git@github.com:rmlzy/set-github-hosts.git
+git clone https://github.com/rmlzy/set-github-hosts.git
 
 # 安装依赖
 cd set-github-hosts

@@ -9,7 +9,7 @@
 # 下载代码
 git clone git@github.com:rmlzy/set-github-hosts.git
 
-# 安装遗爱
+# 安装依赖
 cd set-github-hosts
 pip3 install requests
 
